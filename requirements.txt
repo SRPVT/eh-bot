@@ -1,0 +1,5 @@
+duckduckgo-search
+yt-dlp
+requests
+python-dotenv
+aiohttp
