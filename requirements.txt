@@ -1,5 +1,6 @@
-duckduckgo-search
-yt-dlp
+discord.py==2.3.2
+duckduckgo-search==6.1.2
+yt-dlp==2024.11.4
 requests
 python-dotenv
 aiohttp
